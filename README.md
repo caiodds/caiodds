@@ -5,5 +5,5 @@
 [![LInguagens](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![LInguagens](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![CioDDS GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodds&show_icons=true&theme=radical)
 
