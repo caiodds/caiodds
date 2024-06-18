@@ -5,7 +5,8 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Backend](https://img.shields.io/badge/Backend-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/Backend_development)
+[![Backend](https://img.shields.io/badge/Backend-555555?style=for-the-badge&logo=serverfault)](https://en.wikipedia.org/wiki/Backend_development)
+
 
 
 
